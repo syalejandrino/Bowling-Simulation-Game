@@ -1,10 +1,3 @@
-/**
- * Write a description of class Bowling here.
- *
- * @author (Simon Alejandrino)
- * @version (October 07, 2021)
- */
-
 import java.util.Random;
 
 public class Bowling
